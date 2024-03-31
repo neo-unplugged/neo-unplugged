@@ -14,22 +14,22 @@
 
 <img src="https://scontent.fjsr17-1.fna.fbcdn.net/v/t39.30808-6/411312765_900619338342267_3344457379203330177_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=kck1ZkveFpEAX-_FAl4&_nc_ht=scontent.fjsr17-1.fna&oh=00_AfBrUxjDT4fIsJyzqrYOmR9JmBBgRNMUGimH5buZNU9i7g&oe=660F6304" style="border-radius:50%; margin:8px; width:300px">
 
-**`Programmer | Scientist | Innovator `**
+**`Programmer | Scientist | Innovator `** <img src="./assets/blackhole.gif" align="center" style="width:40px; margin-left:5px;" />
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning **`Godot Engine`** and **`Python`** and **`Physics`**
+- 🔭 I’m currently working on **Beecrowd Problems**
+- 🌱 I’m currently learning **`Godot Engine`** and **`Python Programming`** and **`Theoritical Physics`**
 - 🤔 I’m looking for help with learning **`Godot Game Engine`**
 - 💬 Ask me about my **`Interests`**, **`Progress`**
-- 📫 How to reach me: **`one.atik99@gmail.com`**
+- 📫 How to reach me: <a href="mailto:one.atik99@gmail.com">**`one.atik99@gmail.com`**</a>
 - ⚡ Fun fact: **`being 90s kid`**
 
 
 # <h2>Useful links</h2>
-- <p><img style="width:15px;" src="https://user-images.githubusercontent.com/80331468/270190538-7b3fa433-c299-4909-9559-f5276c2edacb.png"/> beecrowd profile <a href="https://www.beecrowd.com.br/judge/en/profile/909465" style="font-weight:bold; color: #dd7845;">neo-unplugged</a></p>
+- <p><img align="center" style="width:15px;" src="https://user-images.githubusercontent.com/80331468/270190538-7b3fa433-c299-4909-9559-f5276c2edacb.png"/> beecrowd profile <a href="https://www.beecrowd.com.br/judge/en/profile/909465" style="font-weight:bold; color: #dd7845;">neo-unplugged</a></p>
 
-- <p><img style="width:8px;" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" alt="codewars"/> codewars profile <a href="https://www.codewars.com/users/UniAtik" style="font-weight:bold; color: #de4573;">UniAtik</a></p>
+- <p><img align="center" style="width:8px;" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" alt="codewars"/> codewars profile <a href="https://www.codewars.com/users/UniAtik" style="font-weight:bold; color: #de4573;">UniAtik</a></p>
 
 
 #

@@ -12,7 +12,6 @@
 
 ## 🐧 Hi there 👋, I am Atik
 
-<div></div>
 <img src="https://scontent.fjsr17-1.fna.fbcdn.net/v/t39.30808-6/411312765_900619338342267_3344457379203330177_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=kck1ZkveFpEAX-_FAl4&_nc_ht=scontent.fjsr17-1.fna&oh=00_AfBrUxjDT4fIsJyzqrYOmR9JmBBgRNMUGimH5buZNU9i7g&oe=660F6304" style="border-radius:50%; margin:8px; width:300px">
 
 **`Programmer | Scientist | Innovator `**

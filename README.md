@@ -8,11 +8,9 @@
 <!-- Introducing myself -->
 
 
-<!--https://scontent.fjsr17-1.fna.fbcdn.net/v/t39.30808-6/357393223_811870110550524_8079347548049683917_n.jpg?stp=dst-jpg_p720x720&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=IiL5fSnsHJkAX_R-feP&_nc_ht=scontent.fjsr17-1.fna&oh=00_AfC7_mhsWZ5ZuccGu368DhP0HteLwbOoW0HNjLtgDt3D0A&oe=660F80A5-->
-
 ## 🐧 Hi there 👋, I am Atik
 
-<img src="https://scontent.fjsr17-1.fna.fbcdn.net/v/t39.30808-6/411312765_900619338342267_3344457379203330177_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=kck1ZkveFpEAX-_FAl4&_nc_ht=scontent.fjsr17-1.fna&oh=00_AfBrUxjDT4fIsJyzqrYOmR9JmBBgRNMUGimH5buZNU9i7g&oe=660F6304" style="border-radius:50%; margin:8px; width:300px">
+<img src="./assets/neo.jpg" style="border-radius:50%;margin:8px; width:300px">
 
 **`Programmer | Scientist | Innovator `** <img src="./assets/blackhole.gif" align="center" style="width:40px; margin-left:5px;" />
 

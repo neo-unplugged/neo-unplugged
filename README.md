@@ -53,6 +53,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neo-unplugged&show_icons=true&locale=en&theme=tokyonight" alt="neo-unplugged" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neo-unplugged&&theme=tokyonight" alt="rakibryan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neo-unplugged&&theme=tokyonight" alt="neo-unplugged" /></p>
 
 ---

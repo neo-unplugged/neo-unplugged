@@ -16,8 +16,8 @@
 
 
 
-- 🔭 I’m currently working on **Beecrowd Problems**
-- 🌱 I’m currently learning **`Godot Game Engine`** , **`Programming in Python`** and **`Theoretical Physics`**
+- 🔭 I’m currently working on **Physics themed website (amortentia)**
+- 🌱 I’m currently learning **`Data Science with Python`** , **`Automation using Python`** and **`Theoretical Physics`**
 - 🤔 I’m looking for help with learning **`Godot Game Engine`**
 - 💬 Ask me about my **`Interests`**, **`Progress`**
 - 📫 How to reach me: <a href="mailto:one.atik99@gmail.com">**`one.atik99@gmail.com`**</a>

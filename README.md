@@ -57,13 +57,14 @@
 <img align="left" alt="Flask" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 <img align="left" alt="Tailwind" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
 
-<img align="left" src="./assets/stack/java.png" alt="java">
-<img align="left" src="./assets/stack/kotlin.png" alt="kotlin">
-<img align="left" src="./assets/stack/nodejs.png" alt="nodejs">
-<img align="left" src="./assets/stack/django.png" alt="django">
-<img  src="./assets/stack/mongodb.png" alt="mongodb">
-<img align="left" src="./assets/stack/postgresql.png" alt="postgresql>
+<img align="left" src="./assets/stack/java.png" alt="java"/>
+<img align="left" src="./assets/stack/kotlin.png" alt="kotlin"/>
+<img align="left" src="./assets/stack/nodejs.png" alt="nodejs"/>
+<img align="left" src="./assets/stack/django.png" alt="django"/>
+<img  src="./assets/stack/mongodb.png" alt="mongodb"/>
+<img align="left" src="./assets/stack/postgresql.png" alt="postgresql"/>
 
+<br>
 
 #
 <h2><img width="18px" src="./assets/klein-unscreen.gif"> Github Trophies </h2>

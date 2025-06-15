@@ -1,14 +1,4 @@
 <!-- Introducing myself -->
-<style>
-@font-face {
-  font-family: "MyFont";
-  src: url("assets/fonts/NightPumpkind.ttf") format("truetype");
-}
-.ps-links{
-    width:16px;
-    box-shadow: 1px 1px 1px #333, -1px -1px 1px #ddd;
-}
-</style>
 
 ## 🐧 Hi there 👋, I am Atik
 <div style="background: url('./assets/dragon-guy.jpg') center/cover no-repeat;
@@ -53,11 +43,11 @@ But nothing stayed in place.
 
 
 # <h2>Useful links</h2>
-- <p><img class="ps-links" src="./assets/beecrowd.png" alt="beecrowd" />
+- <p><img style="width:16px;box-shadow: 1px 1px 1px #333, -1px -1px 1px #ddd;" src="./assets/beecrowd.png" alt="beecrowd" />
     beecrowd profile <a href="https://www.beecrowd.com.br/judge/en/profile/909465"
         style="font-weight:bold; color: #dd7845;">neo-unplugged</a></p>
 
-- <p><img class="ps-links" src="./assets/codewars.svg" alt="codewars" /> codewars profile <a
+- <p><img style="width:16px;box-shadow: 1px 1px 1px #333, -1px -1px 1px #ddd;" src="./assets/codewars.svg" alt="codewars" /> codewars profile <a
         href="https://www.codewars.com/users/UniAtik" style="font-weight:bold; color: #de4573;">UniAtik</a></p>
 
 #

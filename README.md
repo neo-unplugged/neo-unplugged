@@ -18,8 +18,7 @@
 </p>
 
 <br>
-
-<img align="right" height="200px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="200px" alt="GIF" src="assets/blackhole.gif" />
 
 ### Physics, Computer and Technology I am all in
 
@@ -55,16 +54,15 @@
 <img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Cpp" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <!-- <img align="left" alt="Django" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" /> -->
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
+<img align="left" alt="Flask" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
+<img align="left" alt="Tailwind" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
 
-<img src="./assets/stack/java.png" alt="java">
-<img src="./assets/stack/kotlin.png" alt="kotlin">
-<img src="./assets/stack/nodejs.png" alt="nodejs">
-<img src="./assets/stack/django.png" alt="django">
-<img src="./assets/stack/mongodb.png" alt="mongodb">
-<img src="./assets/stack/postgresql.png" alt="postgresql>
-
+<img align="left" src="./assets/stack/java.png" alt="java">
+<img align="left" src="./assets/stack/kotlin.png" alt="kotlin">
+<img align="left" src="./assets/stack/nodejs.png" alt="nodejs">
+<img align="left" src="./assets/stack/django.png" alt="django">
+<img  src="./assets/stack/mongodb.png" alt="mongodb">
+<img align="left" src="./assets/stack/postgresql.png" alt="postgresql>
 
 
 #

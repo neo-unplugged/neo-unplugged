@@ -2,31 +2,6 @@
 
 ## 🐧 Hi there 👋, I am Atik
 
-<div style="display:flex; align-items:center;">
-<img src="./assets/dragon-guy.jpg" style="
-width: 500px;
-margin: auto;
-position: relative;
-border-radius: 12px;
-overflow: hidden;
-box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);">
-</div>
-
-<pre>
-I opened the door and stepped outside,
-To catch the moonlight’s grace;
-My hands reached out, aglow with hope—
-But nothing stayed in place.
-  </pre>
-
-# <h2>Useful links</h2>
-- <p><img style="width:16px;box-shadow: 1px 1px 1px #333, -1px -1px 1px #ddd;" src="./assets/beecrowd.png" alt="beecrowd" />
-    beecrowd profile <a href="https://www.beecrowd.com.br/judge/en/profile/909465"
-        style="font-weight:bold; color: #dd7845;">neo-unplugged</a></p>
-
-- <p><img style="width:16px;box-shadow: 1px 1px 1px #333, -1px -1px 1px #ddd;" src="./assets/codewars.svg" alt="codewars" /> codewars profile <a
-        href="https://www.codewars.com/users/UniAtik" style="font-weight:bold; color: #de4573;">UniAtik</a></p>
-
 #
 <h2> Quote of the day </h2>
 

@@ -1,46 +1,23 @@
 <!-- Introducing myself -->
 
 ## 🐧 Hi there 👋, I am Atik
-<div style="background: url('./assets/dragon-guy.jpg') center/cover no-repeat;
-  width: 500px;
-  height: 500px;
-  margin: auto;
-  position: relative;
-  border-radius: 12px;
-  overflow: hidden;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);">
-  
-  <div style="position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(50, 50, 50, 0.5);
-  z-index: 1;"></div>
 
-  <pre style="font-family: 'MyFont';
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  z-index: 2;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: white;
-  text-align: center;
-  font-size: 1.4em;
-  padding: 1rem;
-  white-space: pre-wrap;
-  box-sizing: border-box;">
+<div style="display:flex; align-items:center;">
+<img src="./assets/dragon-guy.jpg" style="
+width: 500px;
+margin: auto;
+position: relative;
+border-radius: 12px;
+overflow: hidden;
+box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);">
+</div>
+
+<pre>
 I opened the door and stepped outside,
 To catch the moonlight’s grace;
 My hands reached out, aglow with hope—
 But nothing stayed in place.
   </pre>
-</div>
-
 
 # <h2>Useful links</h2>
 - <p><img style="width:16px;box-shadow: 1px 1px 1px #333, -1px -1px 1px #ddd;" src="./assets/beecrowd.png" alt="beecrowd" />

@@ -2,13 +2,6 @@
 
 ## 🐧 Hi there 👋, I am Atik
 
-#
-<h2> Quote of the day </h2>
-
-[![Readme
-Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-
 
 #
 <h2><img width="18px" src="./assets/klein-unscreen.gif"> Github Trophies </h2>

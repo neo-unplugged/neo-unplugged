@@ -1,21 +1,75 @@
 <!-- Introducing myself -->
+<style>
+@font-face {
+  font-family: "MyFont";
+  src: url("assets/fonts/NightPumpkind.ttf") format("truetype");
+}
 
+.hero {
+  background: url("./assets/dragon-guy.jpg") center/cover no-repeat;
+  width: 500px;
+  height: 500px;
+  margin: auto;
+  position: relative;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(50, 50, 50, 0.5);
+  z-index: 1;
+  
+}
+
+.intro {
+  font-family: "MyFont";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+  display: flex;
+  align-items: center;     /* Vertically center */
+  justify-content: center; /* Horizontally center */
+  color: white;
+  text-align: center;
+  font-size: 1.4em;
+  padding: 1rem;
+  white-space: pre-wrap;
+  box-sizing: border-box;
+}
+.ps-links{
+    width:16px;
+    box-shadow: 1px 1px 1px #333, -1px -1px 1px #ddd;
+}
+</style>
 
 ## 🐧 Hi there 👋, I am Atik
-
-<img src="./assets/dragon-guy.jpg" style="margin:8px; width:300px">
-
-
-**`Programmer | Physicist | Innovator `** <img src="./assets/blackhole.gif" align="center"
-    style="width:40px; margin-left:5px;" />
+<div class="hero">
+  <div class="overlay"></div>
+  <pre class="intro">
+I opened the door and stepped outside,
+To catch the moonlight’s grace;
+My hands reached out, aglow with hope—
+But nothing stayed in place.
+  </pre>
+</div>
 
 
 # <h2>Useful links</h2>
-- <p><img align="center" style="width:16px;" src="./assets/beecrowd.png" />
+- <p><img class="ps-links" src="./assets/beecrowd.png" alt="beecrowd" />
     beecrowd profile <a href="https://www.beecrowd.com.br/judge/en/profile/909465"
         style="font-weight:bold; color: #dd7845;">neo-unplugged</a></p>
 
-- <p><img align="center" style="width:16px;" src="./assets/codewars.svg" alt="codewars" /> codewars profile <a
+- <p><img class="ps-links" src="./assets/codewars.svg" alt="codewars" /> codewars profile <a
         href="https://www.codewars.com/users/UniAtik" style="font-weight:bold; color: #de4573;">UniAtik</a></p>
 
 #

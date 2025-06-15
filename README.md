@@ -61,9 +61,11 @@
 <img align="left" src="./assets/stack/kotlin.png" alt="kotlin"/>
 <img align="left" src="./assets/stack/nodejs.png" alt="nodejs"/>
 <img align="left" src="./assets/stack/django.png" alt="django"/>
-<img  src="./assets/stack/mongodb.png" alt="mongodb"/>
+<img align="left" src="./assets/stack/mongodb.png" alt="mongodb"/>
 <img align="left" src="./assets/stack/postgresql.png" alt="postgresql"/>
 
+<br>
+<br>
 <br>
 
 #

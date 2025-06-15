@@ -4,48 +4,6 @@
   font-family: "MyFont";
   src: url("assets/fonts/NightPumpkind.ttf") format("truetype");
 }
-
-.hero {
-  background: url("./assets/dragon-guy.jpg") center/cover no-repeat;
-  width: 500px;
-  height: 500px;
-  margin: auto;
-  position: relative;
-  border-radius: 12px;
-  overflow: hidden;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
-  
-}
-
-.overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(50, 50, 50, 0.5);
-  z-index: 1;
-  
-}
-
-.intro {
-  font-family: "MyFont";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  z-index: 2;
-  display: flex;
-  align-items: center;     /* Vertically center */
-  justify-content: center; /* Horizontally center */
-  color: white;
-  text-align: center;
-  font-size: 1.4em;
-  padding: 1rem;
-  white-space: pre-wrap;
-  box-sizing: border-box;
-}
 .ps-links{
     width:16px;
     box-shadow: 1px 1px 1px #333, -1px -1px 1px #ddd;
@@ -53,9 +11,39 @@
 </style>
 
 ## 🐧 Hi there 👋, I am Atik
-<div class="hero">
-  <div class="overlay"></div>
-  <pre class="intro">
+<div style="background: url('./assets/dragon-guy.jpg') center/cover no-repeat;
+  width: 500px;
+  height: 500px;
+  margin: auto;
+  position: relative;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);">
+  
+  <div style="position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(50, 50, 50, 0.5);
+  z-index: 1;"></div>
+
+  <pre style="font-family: 'MyFont';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-align: center;
+  font-size: 1.4em;
+  padding: 1rem;
+  white-space: pre-wrap;
+  box-sizing: border-box;">
 I opened the door and stepped outside,
 To catch the moonlight’s grace;
 My hands reached out, aglow with hope—

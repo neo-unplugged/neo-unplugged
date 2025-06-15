@@ -64,9 +64,7 @@
 <img align="left" src="./assets/stack/mongodb.png" alt="mongodb"/>
 <img align="left" src="./assets/stack/postgresql.png" alt="postgresql"/>
 
-<br>
-<br>
-<br>
+
 
 #
 <h2><img width="18px" src="./assets/klein-unscreen.gif"> Github Trophies </h2>

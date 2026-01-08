@@ -61,10 +61,5 @@ A student of physics, leveraging computation and technology to decode the hidden
 <br>
 <br>
 
-#
-<img align="left" width="35px" src="./assets/Cubes.gif" />
-<h3>Languages I have been using</h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=neo-unplugged&show_icons=true&locale=en&layout=compact&theme=tokyonight"
-    alt="neo-unplugged" />
 

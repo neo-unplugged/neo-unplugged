@@ -54,10 +54,3 @@ Flask, Django, Node.js
 ### 🛠️ Tools
 Git, GitHub, Linux, VS Code
 
-<br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neo-unplugged&show_icons=true&theme=dark)
-
-## 🚀 Featured Projects
-
-- **Computational Playground** – Numerical simulations (ODE solvers, eigenvalue problems, optimization experiments).
-- **Neo Unplugged Lab** – Systems-level experiments in C++ focused on performance and computational structure.

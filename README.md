@@ -20,8 +20,5 @@ I speak of Reality with...
 
 and physics.
 
-<div align="center">
-
 > Physics × Computation → Structural insight.
 [![Black Hole GIF](assets/blackhole.gif)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
-</div>

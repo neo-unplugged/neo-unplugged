@@ -1,56 +1,27 @@
 <!-- Introducing myself -->
-
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
 ## 🐧 Who am I?
 
-A physics student exploring symmetry, computation, and structure across nature and code.
+A curious physics student building stuff.
 
 I’m interested in:
-- Theoretical physics
-- Computational modeling
-- Systems thinking
+
+- Physics simulations
+- Computational Physics
+- Physical law exploration
 - Building generalizable solutions from first principles
 
+## 🧠 Core Languages
 
-<br>
-<table>
-<tr>
-<td>
-Physics × Computation → Structural insight.
-</td>
-<td><img alt="GIF" src="assets/blackhole.gif" /></td>
-</tr>
-</table>
+I speak of Reality with...
 
+[ C/C++, Python, Java, Kotlin, Golang ]
 
-### Current Focus
+and physics.
 
-- 🔭 Currently studying DFT and numerical methods
-- ⚙️ Building tools that merge physics and software
-- 💻 Working primarily in C++ for performance-heavy simulations
-- 🐧 Developing primarily on Arch Linux
+<div align="center">
 
-### 2026 Goals
-
-- Publish a research-level project
-- Build an independent computational framework
-- Contribute to open-source scientific tooling
-
-## 🛠 Tech Stack
-
-### 🧠 Core Languages
-C++, Python, Java
-
-### 🌐 Web
-HTML, CSS, JavaScript, React, Tailwind
-
-### 🗄️ Databases
-MySQL, PostgreSQL, MongoDB
-
-### ⚙️ Backend
-Flask, Django, Node.js
-
-### 🛠️ Tools
-Git, GitHub, Linux, VS Code
-
+> Physics × Computation → Structural insight.
+[![Black Hole GIF](assets/blackhole.gif)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+</div>
